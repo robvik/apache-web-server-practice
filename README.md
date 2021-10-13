@@ -1,14 +1,15 @@
+Server version: Apache/2.4.46 (Ubuntu)
+
 # apache-web-server-practice
 A practice repository for different apache web server configurations for:
-- Webservers
-- Reverse proxies
-- Load balancers
+- Webserver
+- Reverse proxy
+- Load balancer
 
 The configurations focus on:
 - Performance
-- Security (HTTP/2, SSL, TFS, /etc/sysctl.conf)
-- Caching (including micro cache)
-- Geographical access control
+- Security
+- Caching
 - Bandwidth access control
 
 #### apache commands
